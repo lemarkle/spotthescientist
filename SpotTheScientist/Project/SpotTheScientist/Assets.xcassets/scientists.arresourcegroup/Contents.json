@@ -1,0 +1,38 @@
+{
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "resources" : [
+    {
+      "filename" : "curie.arreferenceimage"
+    },
+    {
+      "filename" : "einstein.arreferenceimage"
+    },
+    {
+      "filename" : "elon.arreferenceimage"
+    },
+    {
+      "filename" : "galileo.arreferenceimage"
+    },
+    {
+      "filename" : "lovelace.arreferenceimage"
+    },
+    {
+      "filename" : "mark.arreferenceimage"
+    },
+    {
+      "filename" : "newton.arreferenceimage"
+    },
+    {
+      "filename" : "pasteur.arreferenceimage"
+    },
+    {
+      "filename" : "robert.arreferenceimage"
+    },
+    {
+      "filename" : "tesla.arreferenceimage"
+    }
+  ]
+}
